@@ -17,17 +17,17 @@ The goal of this Power BI dashboard is to monitor supply chain performance — f
 
 # 🎯 Objectives
 
-### 1️⃣ Executive Overview
+### 1️⃣ Executive Overview (Screenshots/Overview.png)
 - KPIs: **Total Orders, Total Sales, On-Time Delivery %, Inventory Turnover**
 - Line chart: **Orders & Delivery Time** trend
 - Map: **Orders by Region**
 
-### 2️⃣ Inventory & Warehouse Management
+### 2️⃣ Inventory & Warehouse Management (Screenshots/ Inventory & Warehouse.png)
 - Table: **Stock On Hand vs. Reorder Level**
 - Visuals: **Top 10 Products by Stock Value**
 - Alerts: **Low stock items highlighted in red**
 
-### 3️⃣ Supplier & Delivery Insights
+### 3️⃣ Supplier & Delivery Insights (Screenshots/ Supplier & Delivery Insights.png)
 - Bar chart: **Avg Lead Time by Supplier**
 - Matrix: **Supplier vs. Delivery Performance**
 - KPI: **On-Time Delivery % by Supplier**
