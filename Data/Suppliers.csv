@@ -1,0 +1,21 @@
+SupplierID,SupplierName,Region,LeadTimeDays
+SUP-01,Supplier_1,Africa,8
+SUP-02,Supplier_2,Asia,10
+SUP-03,Supplier_3,Africa,5
+SUP-04,Supplier_4,Europe,3
+SUP-05,Supplier_5,Africa,7
+SUP-06,Supplier_6,Europe,10
+SUP-07,Supplier_7,Europe,7
+SUP-08,Supplier_8,Africa,5
+SUP-09,Supplier_9,Africa,9
+SUP-10,Supplier_10,Middle East,12
+SUP-11,Supplier_11,Europe,9
+SUP-12,Supplier_12,Middle East,14
+SUP-13,Supplier_13,Asia,7
+SUP-14,Supplier_14,Middle East,4
+SUP-15,Supplier_15,Asia,12
+SUP-16,Supplier_16,Middle East,10
+SUP-17,Supplier_17,Middle East,9
+SUP-18,Supplier_18,Middle East,9
+SUP-19,Supplier_19,Africa,10
+SUP-20,Supplier_20,Asia,10
